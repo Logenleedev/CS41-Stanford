@@ -14,7 +14,8 @@ Each problem is chosen to reinforce a particular concept, but you are free to sk
 
 
 
-| Week | Lab Content |
-| :-- | :--
+| Session | Lab Content |
+| :-- | :-- |
 | 2 | Data Stuctures |
 | 3 | Functions |
+| 4 | Recursion with tutle! :) |
