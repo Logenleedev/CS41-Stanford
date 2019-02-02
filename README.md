@@ -19,3 +19,4 @@ Each problem is chosen to reinforce a particular concept, but you are free to sk
 | 2 | Data Stuctures |
 | 3 | Functions |
 | 4 | Recursion with tutle! :) |
+| 5 | Functional Programming |
